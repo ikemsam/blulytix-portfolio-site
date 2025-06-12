@@ -1,0 +1,64 @@
+{
+  "Header": {
+    "home": "Strona główna",
+    "projects": "Projekty",
+    "resume": "CV",
+    "certifications": "Certyfikaty",
+    "contact": "Kontakt"
+  },
+  "HomePage": {
+    "title": "Data Scientist | Inżynier AI/ML",
+    "subtitle": "Budowanie i wdrażanie inteligentnych rozwiązań AI/ML o znaczeniu biznesowym.",
+    "projectsButton": "Zobacz moje projekty",
+    "resumeButton": "Pobierz CV"
+  },
+  "ProjectsPage": {
+    "title": "Portfolio Projektów",
+    "subtitle": "Prezentacja moich kompleksowych umiejętności w zakresie Data Science, uczenia maszynowego i inżynierii AI.",
+    "techUsed": "Użyte technologie:",
+    "caseStudyButton": "Zobacz studium przypadku (wkrótce)"
+  },
+  "ResumePage": {
+    "downloadButton": "Pobierz PDF",
+    "summaryTitle": "Podsumowanie",
+    "summaryContent": "Wysoce zmotywowany i zorientowany na wyniki Data Scientist i Inżynier AI/ML z udokumentowanym doświadczeniem w tworzeniu i wdrażaniu skutecznych rozwiązań uczenia maszynowego. Wiedza obejmuje cały cykl życia ML, od wnikliwej analizy danych i wnioskowania statystycznego po solidne budowanie modeli, wdrażanie i monitorowanie. Pasjonat wykorzystywania sztucznej inteligencji i uczenia maszynowego do rozwiązywania rzeczywistych problemów i generowania znaczącej wartości biznesowej.",
+    "projectsTitle": "Kluczowe projekty",
+    "experienceTitle": "Doświadczenie zawodowe",
+    "educationTitle": "Edukacja",
+    "skillsTitle": "Umiejętności",
+    "experience": {
+      "blulytix": {
+        "role": "Data Scientist/RPA Developer (Freelancer)",
+        "company": "Blulytix",
+        "description": "Dostarczenie licznych, zorientowanych na klienta rozwiązań z zakresu Data Science i AI/ML, w tym wyspecjalizowanych chatbotów z LangChain (RAG) oraz narzędzia do przygotowania do rozmów kwalifikacyjnych opartego na AI. Wykorzystanie usług AWS (EC2, S3) do skalowalnych wdrożeń, automatyzacja operacji w chmurze za pomocą Boto3 i konteneryzacja aplikacji za pomocą Dockera, co zapewniło 98,8% czasu działania API."
+      },
+      "teamInternet": {
+        "role": "Data Scientist",
+        "company": "Team Internet",
+        "description": "Wdrożenie produkcyjnych modeli ML do angażowania klientów, skracając czas dostarczania funkcji o 25% dzięki optymalizacji CI/CD. Przeprowadzanie kwartalnych ocen ryzyka przy użyciu NIST AI RMF i dokumentowanie metryk wykrywania stronniczości modeli."
+      }
+    },
+    "skills": {
+      "mlOps": "Uczenie maszynowe i MLOps",
+      "dataAnalysis": "Data Science i analiza danych",
+      "compliance": "Zgodność i etyka AI",
+      "languages": "Języki"
+    },
+    "languages": {
+      "english": "Angielski",
+      "german": "Niemiecki",
+      "polish": "Polski",
+      "native": "Ojczysty",
+      "advanced": "Zaawansowany",
+      "progressing": "A1 - Aktywnie w toku"
+    }
+  },
+  "CertificationsPage": {
+    "title": "Licencje i Certyfikaty",
+    "subtitle": "Kompleksowa lista moich certyfikatów i kwalifikacji zawodowych."
+  },
+  "ContactPage": {
+    "title": "Skontaktuj się",
+    "subtitle": "Jestem zawsze otwarty na dyskusję o nowych projektach, kreatywnych pomysłach lub możliwościach bycia częścią Twojej wizji."
+  }
+}

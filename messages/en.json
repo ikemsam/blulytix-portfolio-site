@@ -1,0 +1,64 @@
+{
+  "Header": {
+    "home": "Home",
+    "projects": "Projects",
+    "resume": "Resume",
+    "certifications": "Certifications",
+    "contact": "Contact"
+  },
+  "HomePage": {
+    "title": "Data Scientist | AI/ML Engineer",
+    "subtitle": "Building & Deploying Intelligent AI/ML Solutions for Business Impact.",
+    "projectsButton": "View My Projects",
+    "resumeButton": "Download Resume"
+  },
+  "ProjectsPage": {
+    "title": "Project Portfolio",
+    "subtitle": "A showcase of my end-to-end capabilities in Data Science, Machine Learning, and AI Engineering—from ideation and analysis to deployment and monitoring.",
+    "techUsed": "Technologies Used:",
+    "caseStudyButton": "View Case Study (Coming Soon)"
+  },
+  "ResumePage": {
+    "downloadButton": "Download PDF",
+    "summaryTitle": "Summary",
+    "summaryContent": "Highly motivated and results-oriented Data Scientist and AI/ML Engineer with a proven track record of developing and deploying impactful machine learning solutions. Expertise spans the entire ML Lifecycle, from insightful data analysis and statistical inference to robust model building, deployment, and monitoring. Passionate about leveraging AI and machine learning to solve real-world problems and drive significant business value.",
+    "projectsTitle": "Key Projects",
+    "experienceTitle": "Work Experience",
+    "educationTitle": "Education",
+    "skillsTitle": "Skills",
+    "experience": {
+      "blulytix": {
+        "role": "Data Scientist/RPA Developer (Freelance)",
+        "company": "Blulytix",
+        "description": "Delivered numerous client-centric Data Science and AI/ML solutions, including specialized chatbots with LangChain (RAG) and an AI-driven interview prep tool. Leveraged AWS services (EC2, S3) for scalable deployments, automated cloud operations with Boto3, and containerized applications with Docker for 98.8% API uptime."
+      },
+      "teamInternet": {
+        "role": "Data Scientist",
+        "company": "Team Internet",
+        "description": "Deployed production-grade ML models for customer engagement, reducing feature delivery time by 25% through CI/CD optimization. Conducted quarterly risk assessments using NIST AI RMF and documented model bias detection. Collaborated with stakeholders to translate challenges into data-driven solutions."
+      }
+    },
+    "skills": {
+        "mlOps": "Machine Learning & MLOps",
+        "dataAnalysis": "Data Science & Data Analysis",
+        "compliance": "Compliance & AI Ethics",
+        "languages": "Languages"
+    },
+    "languages": {
+        "english": "English",
+        "german": "German",
+        "polish": "Polish",
+        "native": "Native",
+        "advanced": "Advanced",
+        "progressing": "A1 - Actively Progressing"
+    }
+  },
+  "CertificationsPage": {
+    "title": "Licenses & Certifications",
+    "subtitle": "A comprehensive list of my professional certifications and qualifications."
+  },
+  "ContactPage": {
+    "title": "Get In Touch",
+    "subtitle": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's connect and build something amazing together."
+  }
+}

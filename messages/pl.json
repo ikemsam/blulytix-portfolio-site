@@ -1,0 +1,38 @@
+    {
+      "Header": {
+        "home": "Strona główna",
+        "projects": "Projekty",
+        "resume": "CV",
+        "certifications": "Certyfikaty",
+        "contact": "Kontakt"
+      },
+      "HomePage": {
+        "title": "Data Scientist | Inżynier AI/ML",
+        "subtitle": "Budowanie i wdrażanie inteligentnych rozwiązań AI/ML o znaczeniu biznesowym.",
+        "projectsButton": "Zobacz moje projekty",
+        "resumeButton": "Pobierz CV"
+      },
+      "ProjectsPage": {
+        "title": "Portfolio Projektów",
+        "subtitle": "Prezentacja moich kompleksowych umiejętności w zakresie Data Science, uczenia maszynowego i inżynierii AI – od pomysłu i analizy po wdrożenie i monitorowanie.",
+        "techUsed": "Użyte technologie:",
+        "caseStudyButton": "Zobacz studium przypadku (wkrótce)"
+      },
+      "ResumePage": {
+        "downloadButton": "Pobierz PDF",
+        "summary": "Podsumowanie",
+        "projects": "Kluczowe projekty",
+        "experience": "Doświadczenie zawodowe",
+        "education": "Edukacja",
+        "skills": "Umiejętności"
+      },
+      "CertificationsPage": {
+        "title": "Licencje i Certyfikaty",
+        "subtitle": "Kompleksowa lista moich certyfikatów i kwalifikacji zawodowych."
+      },
+      "ContactPage": {
+        "title": "Skontaktuj się",
+        "subtitle": "Jestem zawsze otwarty na dyskusję o nowych projektach, kreatywnych pomysłach lub możliwościach bycia częścią Twojej wizji. Połączmy się i zbudujmy razem coś niesamowitego."
+      }
+    }
+    

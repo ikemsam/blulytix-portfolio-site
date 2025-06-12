@@ -1,0 +1,9 @@
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+
+    body {
+        /* This makes the main background transparent so the canvas can be seen */
+        background-color: transparent !important;
+    }
+    
